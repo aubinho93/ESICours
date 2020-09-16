@@ -5,6 +5,6 @@ xhttp.onreadystatechange = function() {
        document.getElementById("demo").innerHTML = xhttp.responseText;
     }
 };
-xhttp.open("GET", "https://hookb.in/VGP17oagG0TE22bwzRXn", true);
-xhr.setRequestHeader("Origin", 'maximum.blog');
+xhttp.open("GET", "https://www.youtube.com/watch?v=i0wxon609f8", true);
+xhr.setRequestHeader("Origin", 'https://www.youtube.com');
 xhttp.send();
