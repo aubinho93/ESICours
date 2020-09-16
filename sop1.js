@@ -5,5 +5,5 @@ xhttp.onreadystatechange = function() {
        document.getElementById("demo").innerHTML = xhttp.responseText;
     }
 };
-xhttp.open("GET", "https://hookb.in/jeJ397OjMLseBB23Ogog", true);
+xhttp.open("GET", "https://hookb.in/VGP17oagG0TE22bwzRXn", true);
 xhttp.send();
